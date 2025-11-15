@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>欢迎来到我的技术博客</title>
+    <url>/2025/11/16/hello-world/</url>
+    <content><![CDATA[<p>你好！👋</p>
+<p>欢迎来到我的技术博客！我是一名 <strong>C++ 后端开发者</strong>，这里是我分享技术经验、记录成长足迹的地方。</p>
+<span id="more"></span>
+
+<h2 id="📝-博客主题"><a href="#📝-博客主题" class="headerlink" title="📝 博客主题"></a>📝 博客主题</h2><p>这个博客主要分享以下内容：</p>
+<h3 id="💻-C-后端开发"><a href="#💻-C-后端开发" class="headerlink" title="💻 C++ 后端开发"></a>💻 C++ 后端开发</h3><ul>
+<li>高性能服务器编程</li>
+<li>系统架构设计</li>
+<li>并发编程实践</li>
+<li>性能优化技巧</li>
+<li>C++17&#x2F;20 新特性探索</li>
+</ul>
+<h3 id="🚀-Go-语言学习"><a href="#🚀-Go-语言学习" class="headerlink" title="🚀 Go 语言学习"></a>🚀 Go 语言学习</h3><ul>
+<li>Go 并发编程模型</li>
+<li>微服务开发</li>
+<li>与 C++ 的对比学习</li>
+<li>实战项目分享</li>
+</ul>
+<h3 id="🔧-工程实践"><a href="#🔧-工程实践" class="headerlink" title="🔧 工程实践"></a>🔧 工程实践</h3><ul>
+<li>代码设计模式</li>
+<li>分布式系统</li>
+<li>容器化与部署</li>
+<li>开源项目源码分析</li>
+</ul>
+<h2 id="🎯-我的目标"><a href="#🎯-我的目标" class="headerlink" title="🎯 我的目标"></a>🎯 我的目标</h2><p>通过这个博客，我希望：</p>
+<ol>
+<li>📚 <strong>记录学习</strong> - 将每天的技术积累沉淀下来</li>
+<li>🤝 <strong>分享交流</strong> - 与开发者们一起探讨技术</li>
+<li>📈 <strong>持续成长</strong> - 保持对技术的热情与好奇心</li>
+<li>🌱 <strong>拓展技能</strong> - 从 C++ 到 Go，探索更多可能</li>
+</ol>
+<h2 id="🚀-开始之旅"><a href="#🚀-开始之旅" class="headerlink" title="🚀 开始之旅"></a>🚀 开始之旅</h2><p>感谢你的访问！如果你也对 C++、Go 或后端开发感兴趣，欢迎：</p>
+<ul>
+<li>💬 留言讨论</li>
+<li>⭐ 关注更新</li>
+<li>🔗 分享交流</li>
+</ul>
+<p>让我们一起，在代码的世界里不断探索，不断成长！💚</p>
+<hr>
+<blockquote>
+<p>“Talk is cheap. Show me the code.” - Linus Torvalds</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>C++高性能编程最佳实践</title>
     <url>/2025/11/16/C-%E9%AB%98%E6%80%A7%E8%83%BD%E7%BC%96%E7%A8%8B%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在后端开发中，性能优化是一个永恒的话题。作为一名C++后端开发者，我总结了一些高性能编程的实践经验。</p>
@@ -167,60 +221,6 @@ std<span class="token double-colon punctuation">::</span>vector<span class="toke
         <tag>C++</tag>
         <tag>性能优化</tag>
         <tag>后端开发</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>欢迎来到我的技术博客</title>
-    <url>/2025/11/16/hello-world/</url>
-    <content><![CDATA[<p>你好！👋</p>
-<p>欢迎来到我的技术博客！我是一名 <strong>C++ 后端开发者</strong>，这里是我分享技术经验、记录成长足迹的地方。</p>
-<span id="more"></span>
-
-<h2 id="📝-博客主题"><a href="#📝-博客主题" class="headerlink" title="📝 博客主题"></a>📝 博客主题</h2><p>这个博客主要分享以下内容：</p>
-<h3 id="💻-C-后端开发"><a href="#💻-C-后端开发" class="headerlink" title="💻 C++ 后端开发"></a>💻 C++ 后端开发</h3><ul>
-<li>高性能服务器编程</li>
-<li>系统架构设计</li>
-<li>并发编程实践</li>
-<li>性能优化技巧</li>
-<li>C++17&#x2F;20 新特性探索</li>
-</ul>
-<h3 id="🚀-Go-语言学习"><a href="#🚀-Go-语言学习" class="headerlink" title="🚀 Go 语言学习"></a>🚀 Go 语言学习</h3><ul>
-<li>Go 并发编程模型</li>
-<li>微服务开发</li>
-<li>与 C++ 的对比学习</li>
-<li>实战项目分享</li>
-</ul>
-<h3 id="🔧-工程实践"><a href="#🔧-工程实践" class="headerlink" title="🔧 工程实践"></a>🔧 工程实践</h3><ul>
-<li>代码设计模式</li>
-<li>分布式系统</li>
-<li>容器化与部署</li>
-<li>开源项目源码分析</li>
-</ul>
-<h2 id="🎯-我的目标"><a href="#🎯-我的目标" class="headerlink" title="🎯 我的目标"></a>🎯 我的目标</h2><p>通过这个博客，我希望：</p>
-<ol>
-<li>📚 <strong>记录学习</strong> - 将每天的技术积累沉淀下来</li>
-<li>🤝 <strong>分享交流</strong> - 与开发者们一起探讨技术</li>
-<li>📈 <strong>持续成长</strong> - 保持对技术的热情与好奇心</li>
-<li>🌱 <strong>拓展技能</strong> - 从 C++ 到 Go，探索更多可能</li>
-</ol>
-<h2 id="🚀-开始之旅"><a href="#🚀-开始之旅" class="headerlink" title="🚀 开始之旅"></a>🚀 开始之旅</h2><p>感谢你的访问！如果你也对 C++、Go 或后端开发感兴趣，欢迎：</p>
-<ul>
-<li>💬 留言讨论</li>
-<li>⭐ 关注更新</li>
-<li>🔗 分享交流</li>
-</ul>
-<p>让我们一起，在代码的世界里不断探索，不断成长！💚</p>
-<hr>
-<blockquote>
-<p>“Talk is cheap. Show me the code.” - Linus Torvalds</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-        <tag>博客</tag>
       </tags>
   </entry>
 </search>
